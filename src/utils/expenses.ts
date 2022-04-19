@@ -17,7 +17,7 @@ export const EXPENSES = {
     {
       id: "3",
       label: "Cartão de Crédito",
-      value: 950,
+      value: 700,
       color: "#576EFE",
       percent: "74%"
     },
@@ -85,6 +85,36 @@ export const EXPENSES = {
       id: "4",
       label: "Headset",
       value: 360,
+      color: "#55C5FE",
+      percent: "29%"
+    },
+  ],
+  'Abril': [
+    {
+      id: "1",
+      label: "IPTU",
+      value: 250,
+      color: "#975FFF",
+      percent: "20%"
+    },
+    {
+      id: "2",
+      label: "Vinho",
+      value: 65,
+      color: "#FF8555",
+      percent: "5%"
+    },
+    {
+      id: "3",
+      label: "Cartão de Crédito",
+      value: 555.70,
+      color: "#576EFE",
+      percent: "45%"
+    },
+    {
+      id: "4",
+      label: "Teclado",
+      value: 240,
       color: "#55C5FE",
       percent: "29%"
     },
